@@ -1,0 +1,108 @@
+{
+  "trip": {
+    "title": "Goa Trip 2025",
+    "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80",
+    "totalSpent": 1200.5,
+    "yourShare": 450.25,
+    "balance": -50
+  },
+  "expenses": [
+    {
+      "id": 1,
+      "title": "Dinner at Beach Shack",
+      "amount": 120,
+      "paidBy": "Alice",
+      "type": "Split Equally",
+      "date": "2025-07-20",
+      "icon": "🍽️",
+      "category": "food"
+    },
+    {
+      "id": 2,
+      "title": "Airport Transfer",
+      "amount": 85.5,
+      "paidBy": "Bob",
+      "type": "Custom Split",
+      "date": "2025-07-20",
+      "icon": "✈️",
+      "category": "transport"
+    },
+    {
+      "id": 3,
+      "title": "Beach Souvenirs",
+      "amount": 45,
+      "paidBy": "Charlie",
+      "type": "Individual",
+      "date": "2025-07-21",
+      "icon": "🏖️",
+      "category": "shopping"
+    },
+    {
+      "id": 4,
+      "title": "Scuba Diving Lesson",
+      "amount": 200,
+      "paidBy": "Alice",
+      "type": "Split Equally",
+      "date": "2025-07-21",
+      "icon": "🤿",
+      "category": "activity"
+    },
+    {
+      "id": 5,
+      "title": "Hotel Accommodation",
+      "amount": 750,
+      "paidBy": "David",
+      "type": "By Nights Stayed",
+      "date": "2025-07-22",
+      "icon": "🏨",
+      "category": "accommodation"
+    },
+    {
+      "id": 6,
+      "title": "Local Market Groceries",
+      "amount": 55.75,
+      "paidBy": "Eve",
+      "type": "Split Unequally",
+      "date": "2025-07-22",
+      "icon": "🛒",
+      "category": "groceries"
+    }
+  ],
+  "mobileExpenses": [
+    {
+      "id": 1,
+      "title": "Dinner at Beach",
+      "amount": -75.5,
+      "paidBy": "John",
+      "icon": "🍽️"
+    },
+    {
+      "id": 2,
+      "title": "Groceries for Villa",
+      "amount": -45,
+      "paidBy": "You",
+      "icon": "🛒"
+    },
+    {
+      "id": 3,
+      "title": "Taxi to Airport",
+      "amount": -30,
+      "paidBy": "Sarah",
+      "icon": "🚗"
+    },
+    {
+      "id": 4,
+      "title": "Adventure Park",
+      "amount": -120,
+      "paidBy": "Mike",
+      "icon": "🎢"
+    },
+    {
+      "id": 5,
+      "title": "Souvenir Shopping",
+      "amount": -60,
+      "paidBy": "You",
+      "icon": "🎁"
+    }
+  ]
+}
